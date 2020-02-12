@@ -1,0 +1,115 @@
+old,new,Description,Group,Colour
+BACKSTOP,BACKSTOP,Backstop technology,Backstop,aliceblue
+BIOFUELX,BO3PRP00X,Biofuel production,Extraction/Import,aqua
+BM00I00X,BIOIMP00X,Biomass imports,Extraction/Import,azure
+BM00X00X,BIOPRP00X,Biomass extraction/production/refining,Extraction/Import,bisque
+BMCHC01N,BIOCHC01N,Biomass & Waste CHP plant with CCS - Air cooling (new),Power_plants,blanchedalmond
+BMCHC02N,BIOCHC02N,Biomass & Waste CHP plant  with CCS- MDT cooling (new),Power_plants,bluegray
+BMCHC03N,BIOCHC03N,Biomass & Waste CHP plant with CCS - NDT cooling (new),Power_plants,blueviolet
+BMCHC04N,BIOCHC04N,Biomass & Waste CHP plant with CCS - OTF/OTS cooling (new),Power_plants,brightblue
+BMCHP01N,BIOCHP01N,Biomass & Waste CHP plant - Air cooling (new),Power_plants,cornsilk
+BMCHP01O,BIOCHP01O,Biomass & Waste CHP plant - Air cooling (old),Power_plants,brown
+BMCHP02N,BIOCHP02N,Biomass & Waste CHP plant - MDT cooling (new),Power_plants,cyan
+BMCHP02O,BIOCHP02O,Biomass & Waste CHP plant - MDT cooling (old),Power_plants,cadetblue
+BMCHP03N,BIOCHP03N,Biomass & Waste CHP plant - NDT cooling (new),Power_plants,darkcyan
+BMCHP03O,BIOCHP03O,Biomass & Waste CHP plant - NDT cooling (old),Power_plants,chartreuse
+BMCHP04N,BIOCHP04N,Biomass & Waste CHP plant - OTF/OTS cooling (new),Power_plants,darkgray
+BMCHP04O,BIOCHP04O,Biomass & Waste CHP plant - OTF/OTS cooling (old),Power_plants,coral
+CH00I00X,CHAIMP00X,Charcoal imports,Extraction/Import,darkgrey
+CO00I00X,COAIMP00X,"Coal imports (inland transport, maritime freight)",Extraction/Import,darkmagenta
+CO00P00X,COADIP00X,Coal process (non-power sector),Conversion,darkorange
+CO00X00X,COAPRP00X,Coal extraction (mining),Extraction/Import,darkred
+COSCC01N,COASCC01N,Coal power plant with CCS - Air cooling (new),Power_plants,darkseagreen
+COSCC02N,COASCC02N,Coal power plant with CCS - MDT cooling (new),Power_plants,darkslategray
+COSCC03N,COASCC03N,Coal power plant with CCS - NDT cooling (new),Power_plants,darkturquoise
+COSCC04N,COASCC04N,Coal power plant with CCS - OTF/OTS cooling (new),Power_plants,deeppink
+COSCP01N,COASCP01N,Coal power plant - Air cooling (new),Power_plants,ghostwhite
+COSCP01O,COASCP01O,Coal power plant - Air cooling (old),Power_plants,dimgray
+COSCP02N,COASCP02N,Coal power plant - MDT cooling (new),Power_plants,goldenrod
+COSCP02O,COASCP02O,Coal power plant - MDT cooling (old),Power_plants,dodgerblue
+COSCP03N,COASCP03N,Coal power plant - NDT cooling (new),Power_plants,gray
+COSCP03O,COASCP03O,Coal power plant - NDT cooling (old),Power_plants,floralwhite
+COSCP04N,COASCP04N,Coal power plant - OTF/OTS cooling (new),Power_plants,greenyellow
+COSCP04O,COASCP04O,Coal power plant - OTF/OTS cooling (old),Power_plants,fuchsia
+CR00I00X,CR1IMP00X,Crude Oil imports,Extraction/Import,grey01
+CR00P00X,CR1DIP00X,Crude Oil process (non-power sector),Conversion,grey03
+CR00X00X,CR1PRP00X,Crude Oil extraction,Extraction/Import,grey05
+CRUDPROX,CR1REFXXX,Crude oil refinery capacity,Conversion,grey07
+CRUDRE1X,CR2REF1XX,Crude oil refinery 1,Conversion,grey11
+CRUDRE2X,CR2REF2XX,Crude oil refinery 2,Conversion,grey13
+EL00T00X,EL1TRP00X,Transmission technology (Secondary to Tertiary),Transmission&Distribution,grey11
+EL00TDTX,EL2DIP00X,Distribution technology (Distribution to final electricity demand),Transmission&Distribution,grey13
+ETHANOLX,ETHPRP00X,Ethanol production,Extraction/Import,honeydew
+FW00P00X,BIODIP00X,Firewood process (non-power sector),Conversion,indianred
+GOCVP01N,GEOCVP01N,Geothermal power plant - Air cooling (new),Power_plants,lightpurple
+GOCVP01O,GEOCVP01O,Geothermal power plant - Air cooling (old),Power_plants,ivory
+GOCVP02N,GEOCVP02N,Geothermal power plant - MDT cooling (new),Power_plants,lightcoral
+GOCVP02O,GEOCVP02O,Geothermal power plant - MDT cooling (old),Power_plants,khaki
+GOCVP03N,GEOCVP03N,Geothermal power plant - NDT cooling (new),Power_plants,lightgoldenrodyellow
+GOCVP03O,GEOCVP03O,Geothermal power plant - NDT cooling (old),Power_plants,lavenderblush
+GOCVP04N,GEOCVP04N,Geothermal power plant - OTF/OTS cooling (new),Power_plants,lightgreen
+GOCVP04O,GEOCVP04O,Geothermal power plant - OTF/OTS cooling (old),Power_plants,lemonchiffon
+HE00T00X,HE2DIP00X,Heat network,Transmission&Distribution,lightivory
+HF00I00X,HFOIMP00X,Heavy Fuel Oil imports,Extraction/Import,lightsalmon
+HF00P00X,HFODIP00X,Heavy Fuel Oil process (non-power sector),Conversion,lightskyblue
+HFGCP01N,HFOGCP01N,Oil fired gas turbine (SCGT) - Air cooling (new),Power_plants,limegreen
+HFGCP01O,HFOGCP01O,Oil fired gas turbine (SCGT) - Air cooling (old),Power_plants,lightslategrey
+HFGCP02N,HFOGCP02N,Oil fired gas turbine (SCGT) - MDT cooling (new),Power_plants,magenta
+HFGCP02O,HFOGCP02O,Oil fired gas turbine (SCGT) - MDT cooling (old),Power_plants,lightteal
+HFGCP03N,HFOGCP03N,Oil fired gas turbine (SCGT) - NDT cooling (new),Power_plants,mediumaquamarine
+HFGCP03O,HFOGCP03O,Oil fired gas turbine (SCGT) - NDT cooling (old),Power_plants,lightblue2
+HFGCP04N,HFOGCP04N,Oil fired gas turbine (SCGT) - OTF/OTS cooling (new),Power_plants,mediumgray
+HFGCP04O,HFOGCP04O,Oil fired gas turbine (SCGT) - OTF/OTS cooling (old),Power_plants,lime
+HYDMS01X,HYDSSP00X,Small hydropower plant,Power_plants,mediumturquoise
+HYDMS02X,HYDMSP00X,Medium hydropower plant (Run-of river),Power_plants,mediumslateblue
+HYDMS03X,HYDLSP00X,Large hydropower plant (Dam),Power_plants,mediumpurple
+LF00I00X,LFOIMP00X,Light Fuel Oil imports,Extraction/Import,midnightblue
+LF00P00X,LFODIP00X,Light Fuel Oil process (non-power sector),Conversion,mistyrose
+LFRCFURX,LFORCP00X,Light Fuel Oil stand alone (1kW),Power_plants,mustard
+LFRCP01N,LFORCP01N,Light Fuel Oil power plant - Air cooling (new),Power_plants,palegreen
+LFRCP01O,LFORCP01O,Light Fuel Oil power plant - Air cooling (old),Power_plants,navy
+LFRCP02N,LFORCP02N,Light Fuel Oil power plant - MDT cooling (new),Power_plants,paleturquoise
+LFRCP02O,LFORCP02O,Light Fuel Oil power plant - MDT cooling (old),Power_plants,olive
+LFRCP03N,LFORCP03N,Light Fuel Oil power plant - NDT cooling (new),Power_plants,papayawhip
+LFRCP03O,LFORCP03O,Light Fuel Oil power plant - NDT cooling (old),Power_plants,orange
+LFRCP04N,LFORCP04N,Light Fuel Oil power plant - OTF/OTS cooling (new),Power_plants,pearl
+LFRCP04O,LFORCP04O,Light Fuel Oil power plant - OTF/OTS cooling (old),Power_plants,orchid
+NG00I00X,NGAIMP00X,Natural gas imports (inland/offshore pipeline),Extraction/Import,pearl03
+NG00ILGX,LNGIMP00X,Natural gas imports (LNG),Extraction/Import,pearl05
+NG00P00X,NGADIP00X,Natural gas process (non-power sector),Conversion,peru
+NG00X00X,NGAPRP00X,Natural gas extraction,Extraction/Import,pinksalmon
+NGCCC01N,NGACCC01N,Natural gas power plant (combined cycle) - CCS - Air cooling (new),Power_plants,polar
+NGCCC02N,NGACCC02N,Natural gas power plant (combined cycle) - CCS  - MDT cooling (new),Power_plants,polarbluelight
+NGCCC03N,NGACCC03N,Natural gas power plant (combined cycle) - CCS - NDT cooling (new),Power_plants,polardark
+NGCCC04N,NGACCC04N,Natural gas power plant (combined cycle) - CCS  - OTF/OTS cooling (new),Power_plants,polardust
+NGCCP01N,NGACCP01N,Natural gas power plant (combined cycle) - Air cooling (new),Power_plants,rosybrown
+NGCCP01O,NGACCP01O,Natural gas power plant (combined cycle) - Air cooling (old),Power_plants,polargreen
+NGCCP02N,NGACCP02N,Natural gas power plant (combined cycle) - MDT cooling (new),Power_plants,saddlebrown
+NGCCP02O,NGACCP02O,Natural gas power plant (combined cycle) - MDT cooling (old),Power_plants,polarpurple
+NGCCP03N,NGACCP03N,Natural gas power plant (combined cycle) - NDT cooling (new),Power_plants,sandybrown
+NGCCP03O,NGACCP03O,Natural gas power plant (combined cycle) - NDT cooling (old),Power_plants,powderblue
+NGCCP04N,NGACCP04N,Natural gas power plant (combined cycle) - OTF/OTS cooling (new),Power_plants,seagreen
+NGCCP04O,NGACCP04O,Natural gas power plant (combined cycle) - OTF/OTS cooling (old),Power_plants,red
+NGGCP01N,NGAGCP01N,Natural gas power plant (single cycle) - Air cooling (new),Power_plants,springgreen
+NGGCP01O,NGAGCP01O,Natural gas power plant (single cycle) - Air cooling (old),Power_plants,sienna
+NGGCP02N,NGAGCP02N,Natural gas power plant (single cycle) - MDT cooling (new),Power_plants,tan
+NGGCP02O,NGAGCP02O,Natural gas power plant (single cycle) - MDT cooling (old),Power_plants,skyblue
+NGGCP03N,NGAGCP03N,Natural gas power plant (single cycle) - NDT cooling (new),Power_plants,thistle
+NGGCP03O,NGAGCP03O,Natural gas power plant (single cycle) - NDT cooling (old),Power_plants,slategray
+NGGCP04N,NGAGCP04N,Natural gas power plant (single cycle) - OTF/OTS cooling (new),Power_plants,turquoise
+NGGCP04O,NGAGCP04O,Natural gas power plant (single cycle) - OTF/OTS cooling (old),Power_plants,smurf
+NPCHA00X,CHAPRP00X,Charcoal production,Extraction/Import,wheat
+NULWP04N,URNPWP04N,Nuclear power plant - OTS/OTF cooling (new),Power_plants,yellowgreen
+NULWP04O,URNPWP04O,Nuclear power plant - OTS/OTF cooling (old),Power_plants,whitesmoke
+SOC1P00X,SOLCNP01X,CSP (without storage),Power_plants,grey
+SOC2P00X,SOLCSP01X,CSP (with storage),Power_plants,lavender
+SOLAR00X,SOLPRP00X,Solar potential,Extraction/Import,lightgrey
+SOU1P03X,SOLPUP00X,Solar PV (utility),Power_plants,mediumorchid
+SOV1F01X,SOLPVP00X,Solar PV (roof top),Power_plants,navajowhite
+SOV2F01X,SOLPSP00X,Solar PV with storage,Power_plants,pearl04
+UR00I00X,URNIMP00X,Uranium imports,Extraction/Import,polarorange
+UR00X00X,URNPRP00X,Uranium extraction,Extraction/Import,silver
+WA00000X,WA2PRP00X,Water production technology,Extraction/Import,tomato
+WIND000X,WINPRP00X,Wind potential,Extraction/Import,yellow
+WINDP00X,WINONP00X,Wind (onshore),Power_plants,beige
+WINDP01X,WINOFP00X,Wind (offshore),Power_plants,burlywood
