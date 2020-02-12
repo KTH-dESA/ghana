@@ -1,3 +1,5 @@
+# Extract a region from the JRC TEMBA model
+
 mkdir -p ../Ghana/data
 
 for file in "$@"
